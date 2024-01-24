@@ -26,11 +26,11 @@ This dashboard provides valuable insights and recommendations which would help t
 4)	data modelling – connected different tables and established a relationship between them  
 5)	created various measures and calculated columns using DAX (Data Analysis Expressions). Here are some of the functions I have used in the project:  
 
-•	**CALCULATE** – to change the filter context of a measure/to give a new filter context to the measure  
-•	**FILTER** – to filter a given table or a subset/resultant table from a measure  
-•	**LOOKUPVALUE** – looks for a particular value based on specific criteria and returns the corresponding result  
-•	**DATEDIFF** – gives difference between two dates in days, months, etc.  
-•	**DISTINCTCOUNT** – counts distinct values in a given column  
+    •	**CALCULATE** – to change the filter context of a measure/to give a new filter context to the measure  
+    •	**FILTER** – to filter a given table or a subset/resultant table from a measure  
+    •	**LOOKUPVALUE** – looks for a particular value based on specific criteria and returns the corresponding result  
+    •	**DATEDIFF** – gives difference between two dates in days, months, etc.  
+    •	**DISTINCTCOUNT** – counts distinct values in a given column  
 
 6)	created toggle buttons for switching between two visuals  
 7)	used bookmark and selection   
