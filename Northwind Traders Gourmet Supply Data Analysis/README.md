@@ -5,7 +5,7 @@
 
 Northwind Traders is a global import and export company which supplies gourmet food products to restaurants, hotels, cafes, and food retailers around the world. The top management wants to understand the company's performance over time. As a Data Analyst, I have been the task to develop an interactive dashboard which should provide valuable insights about the company's overall progress.
 
-### Problem Description:   
+### Project Description:   
 
 In this project, I have developed a high-level KPI dashboard for the executive team to analyse key metrics such as: customer and product performance, total revenue generated, sales revenue trend for each year, best performing countries and cities around the world contributing to order amount, total quantities sold and total order amount by each category, countries with the highest and lowest freight cost, on-time delivery percentage, etc.     
   
