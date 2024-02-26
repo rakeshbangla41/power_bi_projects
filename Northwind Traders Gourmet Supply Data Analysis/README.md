@@ -7,13 +7,31 @@ Northwind Traders is a global import and export company which supplies gourmet f
 
 ### Project Description:   
 
-In this project, I have developed a high-level KPI dashboard for the executive team to analyse key metrics such as: customer and product performance, total revenue generated, sales revenue trend for each year, best performing countries and cities around the world contributing to order amount, total quantities sold and total order amount by each category, countries with the highest and lowest freight cost, on-time delivery percentage, etc.     
+Within this project, I have designed a comprehensive KPI dashboard intended for the executive team's analysis of key metrics related to both sales and the supply chain. These metrics include:
+
+a) Sales-related metrics:   
+
+* Total sales revenue  
+* Customer and product performance
+* Sales revenue trends per year
+* Identification of most valued customers and products
+* Recognition of top-performing countries and cities contributing to order amount
+* Aggregation of total quantities sold and total order amount for each category
+
+b) Supply chain-related metrics:
+
+* Gourmet product supply destinations worldwide
+* Total freight cost analysis
+* Identification of countries with the highest and lowest freight costs
+* On-time delivery percentage (OTD%)
+* Overview of orders shipped to various countries by the shipping company
+     
   
 This dashboard provides valuable insights and recommendations which would help the company to optimize their sales and supply chain strategies, improve customer satisfaction, and maximize Return on Investment (ROI).    
 
 ### What I have learned by doing this project:   
 
-1)	understood the data analytics pipeline – from data sourcing and extracting to deriving useful insights   
+1)	understood the entire data analytics pipeline – from data sourcing and extracting to deriving useful insights   
 2)	connected to and extracted data from CSV files  
 3)	cleaned and transformed raw data using Power Query. Those are:   
     a)	trimmed blank and trailing spaces,   
@@ -32,11 +50,11 @@ This dashboard provides valuable insights and recommendations which would help t
     •	**DATEDIFF** – gives difference between two dates in days, months, etc.  
     •	**DISTINCTCOUNT** – counts distinct values in a given column  
 
-6)	created toggle buttons for switching between two visuals  
-7)	used bookmark and selection   
-8)	understood some important metrics related to supply chain and global import & export (freight cost, on-time delivery %, etc.)  
-9)	Choosing the right visuals and formatting and dashboard designing principles  
-10)	Deploying in Power BI service
+6)	Employed bookmarks and selections for seamless switching between visuals
+7)	Acquired an understanding of critical metrics related to the supply chain, global import, and export, including freight cost and on-time delivery percentage.  
+8)  Applied principles of choosing appropriate visuals, formatting, and effective dashboard design.
+9)  Successfully deployed the project in Power BI service
+
 
 
 ### Data Analysis Report (Insights & Recommendations):   
