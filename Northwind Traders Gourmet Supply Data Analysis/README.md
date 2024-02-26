@@ -3,7 +3,7 @@
   
 ### Problem Statement:    
 
-Northwind Traders is a global import and export company which supplies gourmet food products to restaurants, hotels, cafes, and food retailers around the world. The top management wants to understand the company's performance over time. As a Data Analyst, I have been the task to develop an interactive dashboard which should provide valuable insights about the company's overall progress.
+Northwind Traders is a global import and export company which supplies gourmet food products to restaurants, hotels, cafes, and food retailers around the world. The top management wants to understand the company's performance over time. As a Data Analyst, I have been the task to develop a Power BI dashboard that delivers meaningful insights, facilitating informed and data-driven decision-making.
 
 ### Project Description:   
 
