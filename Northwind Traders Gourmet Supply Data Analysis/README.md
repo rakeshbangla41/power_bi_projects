@@ -1,5 +1,7 @@
 ## Northwind Traders Gourmet Supply Data Analysis   
 
+### You can view the live dashboard here: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzRlNWJmNDEtMDlhMi00Y2MxLWIxMjYtNzMwMmIyY2ViZTM2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection) or [novyPro Dashboard](https://www.novypro.com/project/northwind-traders-gourmet-supply-data-analysis-%7C-maven-analytics-data-challenge)
+
   
 ### Problem Statement:    
 
