@@ -1,4 +1,4 @@
-## Data Analysis using Power BI
+## Data Visualization using Power BI
 
 
 In this particular repository, I have posted my Data Visualization projects. I have used Microsoft Power BI software to build these interactive visualization dashboards.  
