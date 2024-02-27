@@ -12,3 +12,7 @@ In this particular repository, I have posted my Data Visualization projects. I h
 
 
 
+
+
+#### You can visit novyPro website to view all my data visualization projects: [novyPro Power BI Portfolio](https://www.novypro.com/profile_projects/rakeshbangla)
+
