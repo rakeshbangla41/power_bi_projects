@@ -1,5 +1,8 @@
 ## HR Data Analysis
 
+### You can view the live dashboard here: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWIzYTQwZWQtMjM1Mi00M2NiLWE2NzYtY2MyNmZhNjE5NjdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection) or [novyPro Dashboard](https://www.novypro.com/project/hr-data-analysis-%7C-fp20-analytics-data-challenge)
+
+
 ### Problem Statement:  
 
 The Human Resource (HR) department of a corporate company possesses comprehensive employee-related data. The HR manager wants to understand employee behaviour, retention rate, annual compensation, gender diversity, etc. As a Data Analyst, I have to develop a dashboard to answer all these questions.  
