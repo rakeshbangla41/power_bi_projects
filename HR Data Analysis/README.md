@@ -1,6 +1,6 @@
 ## HR Data Analysis
 
-### You can view the live dashboard here: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWIzYTQwZWQtMjM1Mi00M2NiLWE2NzYtY2MyNmZhNjE5NjdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection) or [novyPro Dashboard](https://www.novypro.com/project/hr-data-analysis-%7C-fp20-analytics-data-challenge)
+### You can view the live dashboard here: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTAyMmM1MTAtYTk3MC00YmRkLTllMDMtZTJkNjA4NjZmMTIwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) or [novyPro Dashboard](https://www.novypro.com/project/hr-data-analysis-%7C-fp20-analytics-data-challenge)
 
 
 ### Problem Statement:  
